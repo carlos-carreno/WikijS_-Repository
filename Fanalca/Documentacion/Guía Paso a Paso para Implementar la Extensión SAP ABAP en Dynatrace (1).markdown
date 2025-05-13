@@ -1,3 +1,14 @@
+<div class="header">
+  <div class="header-content">
+    <h3>FT GP 008_V4 DOCUMENTO DE APOYO</h3>
+    <p>30/12/2024</p>
+    <p>Acceso: Interno</p>
+  </div>
+  <div class="header-logo">
+    <img src="/logos/ti724-adaptamos-la-tecnologia-a-tu-empresa-colombia.png" alt="Logo TI 724" class="logo">
+  </div>
+</div>
+
 # Guía Paso a Paso para Implementar la Extensión SAP ABAP en Dynatrace
 
 Esta guía proporciona instrucciones detalladas para implementar la extensión de SAP ABAP en Dynatrace, permitiendo el monitoreo de sistemas SAP NetWeaver ABAP (versión 7.31 o superior). Incluye ejemplos prácticos para configuraciones, comandos y verificaciones. La implementación involucra configuraciones en el sistema SAP, el ActiveGate de Dynatrace y la interfaz de Dynatrace.
