@@ -1,3 +1,14 @@
+<div class="header">
+  <div class="header-content">
+    <h3>FT GP 008_V4 DOCUMENTO DE APOYO</h3>
+    <p>30/12/2024</p>
+    <p>Acceso: Interno</p>
+  </div>
+  <div class="header-logo">
+    <img src="/logos/ti724-adaptamos-la-tecnologia-a-tu-empresa-colombia.png" alt="Logo TI 724" class="logo">
+  </div>
+</div>
+
 # Lista de Verificación para Configurar y Diagnosticar la Extensión de Dynatrace para SAP HANA
 
 Este documento detalla los pasos para diagnosticar el error `Cannot connect to jdbc:sap://10.50.0.12:30015/` al configurar la extensión de Dynatrace para monitorear una base de datos SAP HANA, y cómo configurar correctamente la IP de la base de datos. También incluye un script de PowerShell para verificar la configuración en una sola acción.
